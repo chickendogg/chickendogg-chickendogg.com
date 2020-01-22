@@ -1,6 +1,6 @@
 ## ChickenDogg
 
--Chicken
--Dogg
+- Chicken
+- Dogg
 - Chicken+dogg=chickdogg
 
